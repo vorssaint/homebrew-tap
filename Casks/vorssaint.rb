@@ -1,6 +1,6 @@
 cask "vorssaint" do
-  version "3.1.10"
-  sha256 "9c7359c6e0d617f9a78f1ffbe3f47f6d176af9a2ca25e5d3d56d4ba2aa4060ff"
+  version "3.1.12"
+  sha256 "1b91cd31c40f68c0b305cb7a5f8c3b9f460735e77fe560ea60bd508c5cb7996f"
 
   url "https://github.com/vorssaint/vorssaint-utils/releases/download/v#{version}/Vorssaint-#{version}.dmg"
   name "Vorssaint"
